@@ -1,3 +1,9 @@
+# My Notes
+
+- [[bash_setup]]
+- [[elixir_congiguration]]
+- [[postgres_installation]]
+
 # Using Foam
 
 Foam is a collection VS Code extensions and recipes that power up the editor
