@@ -1,6 +1,7 @@
 # My Notes
 
 - [[bash_setup]]
+- [[communication]]
 - [[elixir_congiguration]]
 - [[postgres_installation]]
 
