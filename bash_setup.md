@@ -34,3 +34,7 @@ PS1="${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[0
 
 [configuration_repos] A directory that contains my configuration files for various and sundry tools
 [flatpak]
+
+## Bibliography
+* Bash Single vs. Double Quotes What's the Difference (https://www.tutorialspoint.com/bash-single-vs-double-quotes-what-s-difference#:~:text=In%20summary%2C%20main%20difference%20between,them%20as%20a%20literal%20string.)
+* How to Customize Bash Prompt in Linux (https://phoenixnap.com/kb/change-bash-prompt-linux)

@@ -1,0 +1,4 @@
+# Organization
+
+- [[index]]
+- [[Zettelkasten]]

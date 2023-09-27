@@ -2,8 +2,20 @@
 
 - [[bash_setup]]
 - [[communication]]
-- [[elixir_congiguration]]
+- [[design system]]
+- [[Elixir]]
+- [[elixir_configuration]]
+- [[elixir_exports]]
+- [[foam_extensions]]
+- [[livebook_smart_cells]]
+- [[ecsx_game_evelopment]]
 - [[postgres_installation]]
+- [[process_boundaries]]
+- [[supervisor_vs_linking]]
+- [[tailwind_CSS]]
+- [[Zettelkasten]]
+
+
 
 # Using Foam
 
@@ -21,7 +33,7 @@ strategies for getting the most out of Foam. The full docs are included in the
 - [[recommended-extensions]]
 - [[creating-new-notes]]
 - [[write-notes-in-foam]]
-- [[sync-notes-with-soruce-control]]
+- [[sync-notes-with-source-control]]
 - [[keyboard-shortcuts]]
 
 ## Features
