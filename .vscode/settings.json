@@ -26,4 +26,7 @@
   "pasteImage.path": "${projectRoot}/attachments",
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
+  "cSpell.words": [
+    "hotfixes"
+  ],
 }

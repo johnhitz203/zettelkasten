@@ -1,18 +1,65 @@
-# My Notes
+# Index
 
+## Bash
+- [[alias]]
+- [[bash_commands]]
 - [[bash_setup]]
+- [[File_Tree_Tools]]
+- [[mc]] (Midnight commander) - Visual File Manager
+- [[silversearcher-ag]] - grep on steroids
+
+## Google Chrome
+- [[chrome]]
+
+## Code Management
+- [[git]]
+- [[git_commands]]
+- [[git_tags]]
+- [[git_workflow]]
+
+## Communication
 - [[communication]]
-- [[design system]]
+- [[email_w_sendgrid]]
+
+## Database Management
+- [[data_migration]]
+- [[event_sourcing]]
+- [[postgres]]
+- [[postgres_installation]]
+- [[sql]]
+
+## Elixir
+- [[Debuging_Elixir]]
+- [[ecsx_game_evelopment]]
 - [[Elixir]]
 - [[elixir_configuration]]
 - [[elixir_exports]]
-- [[foam_extensions]]
+- [[elixir_phoenix]]
+- [[for_comprehension]]
+- [[liveview]]
 - [[livebook_smart_cells]]
-- [[ecsx_game_evelopment]]
-- [[postgres_installation]]
-- [[process_boundaries]]
+- [[rexbug]]
 - [[supervisor_vs_linking]]
-- [[tailwind_CSS]]
+- [[virtual_fields]]
+- [[task_generators]]
+
+
+## Frontend Development
+- [[design system]]
+- [[tailwind_css]]
+- [[tailwind_CSS_Justing_M]]
+
+## Hosting
+- [[gigalixir]]
+
+## Text Editors
+- [[emacs]]
+- [[foam_extensions]]
+- [[ice_breakers]]
+
+- [[process_boundaries]]
+- [[speed_test]]
+- [[zettelkasten]]
 - [[Zettelkasten]]
 
 

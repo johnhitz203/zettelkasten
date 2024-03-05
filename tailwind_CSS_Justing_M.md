@@ -1,3 +1,7 @@
+# Tailwind CSS by Justin M
+- [[index]]
+  
+
 # CSS Syntax
 
 * slector -> is going to be styled
@@ -157,5 +161,3 @@ Question:
 ## Resources
 - Front End Masters CSS path
 - Keven Powel youtube channel
-
-- [[index]]
