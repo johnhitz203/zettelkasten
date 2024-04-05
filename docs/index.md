@@ -26,9 +26,12 @@
 - [[event_sourcing]]
 - [[postgres]]
 - [[postgres_installation]]
+- [[soft_delete_w_db_triggers_ecto]]
 - [[sql]]
 
 ## Elixir
+- [[chromicPDF]]
+  
 - [[Debuging_Elixir]]
 - [[ecsx_game_evelopment]]
 - [[Elixir]]
@@ -38,6 +41,9 @@
 - [[for_comprehension]]
 - [[liveview]]
 - [[livebook_smart_cells]]
+- Phoenix
+  - [[code_hygiene]]
+  - [[phoenix_form]]
 - [[rexbug]]
 - [[supervisor_vs_linking]]
 - [[virtual_fields]]
@@ -51,6 +57,7 @@
 
 ## Hosting
 - [[gigalixir]]
+- [[fly.io]]
 
 ## Text Editors
 - [[emacs]]
