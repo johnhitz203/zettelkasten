@@ -1,4 +1,10 @@
-# liveview
+# Phoenix.LiveView behavior
+
+## <u>Resources</u>
+### Docs 
+- Phoenix.LiveView behaviour
+  https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html#c:handle_params/3
+  
 
 ## Anatomy of a liveview
 - mount - Sets up the data for the initial page...

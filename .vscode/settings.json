@@ -27,6 +27,7 @@
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
   "cSpell.words": [
+    "behaviour",
     "hotfixes"
   ],
 }

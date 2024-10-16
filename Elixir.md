@@ -2,7 +2,7 @@
 This file only has links to other files that have to do with Elixir.
 - [[elixir_configuration]]
 - [[elixir_exports]]
-- [[liveview]]
+- [[Phoenix.LiveView]]
 - [[elixir_function]]
 
 [[Index]]

@@ -1,5 +1,9 @@
 # git_commands
 
+## Checkout 
+- $ git switch [branch-name] => move to the branch `(branch-name)$`
+- $ git switch - => move to the previous branch that you were in
+
 ## Ignoring Files and/or Directories
 - git .ignore -> creates a list of files and/or directories to be ignored by git
   - git.ignore.
@@ -15,7 +19,7 @@
   - s -> split this hunk into smaller hunks
   - y -> select this hunk to be stashed
 
-# Bibliography & Resources
+## Bibliography & Resources
 1. https://git-scm.com/book/it/v2/Git-Tools-Stashing-and-Cleaning
 
 ## Table of Contents
